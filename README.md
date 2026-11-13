@@ -34,7 +34,7 @@ O site tem:
 
 ## 🔗 Site publicado
 
-👉 **LINK-DO-GITHUB-PAGES**
+👉 [**LINK-DO-GITHUB-PAGES**](https://carolhbarbosa.github.io/portfolio/)
 
 ## ⚙️ Como o projeto funciona
 
